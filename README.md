@@ -30,3 +30,4 @@ Android Studio でプロジェクトを開き、Run でデバイスにインス�
 5. ホームボタンを押すと自動的に PiP に切り替わる
 6. アプリをタスクから消しても音声はバックグラウンドで継続
 # localpipper
+# localpipper
